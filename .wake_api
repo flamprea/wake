@@ -1,0 +1,4 @@
+export APIUSER="tsadmin"
+export APIPW="th0ughtSp0t"
+export APICLUSTER="172.31.6.20"
+export PINBOARDID="98c148b7-fb3a-4a39-897a-1ca4ce5f415d"
